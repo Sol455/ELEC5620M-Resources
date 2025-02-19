@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>2-1-Blocking-Timer</name>
+	<name>demo_project</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -28,11 +28,6 @@
 			<name>Drivers</name>
 			<type>2</type>
 			<location>C:/Users/el20sh/WorkSpace/ELEC5620M-Resources/Drivers</location>
-		</link>
-		<link>
-			<name>ELEC5620M-Resources</name>
-			<type>2</type>
-			<location>C:/Users/el20sh/WorkSpace/ELEC5620M-Resources</location>
 		</link>
 	</linkedResources>
 </projectDescription>
